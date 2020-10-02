@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/maximilianc88/FullTankStudio/issues"
   },
-  "homepage": "https://github.com/maximilianc88/FullTankStudio#readme"
+  "homepage": "https://github.com/maximilianc88/FullTankStudio#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0"
+  }
 }

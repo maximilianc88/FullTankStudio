@@ -21,6 +21,8 @@
     "eslint": "^7.10.0"
   },
   "dependencies": {
-    "mongoose": "^5.10.7"
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7",
+    "morgan": "^1.10.0"
   }
 }
